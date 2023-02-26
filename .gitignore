@@ -1,0 +1,15 @@
+# Obsidian
+.obsidian/
+app.json
+appearance.json
+core-plugins-migration.json
+core-plugins.json
+hotkeys.json
+workspace.json
+
+# Draw.io
+*.drawio.bkp
+*.drawio
+
+#
+.DS_Store
