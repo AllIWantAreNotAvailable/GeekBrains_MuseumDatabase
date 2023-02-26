@@ -17,3 +17,4 @@
 
 - Поставленная перед собой задача описана в рамках ["Сценарий использования базы данных"](https://github.com/AllIWantIsNotAvailable/GeekBrains_MuseumDatabase/blob/main/DatabaseScenario.md).
 - Таблицы представлены и описаны в ["Перечень сущностей в базе данных"](https://github.com/AllIWantIsNotAvailable/GeekBrains_MuseumDatabase/blob/main/DatabaseEntities.md).
+- Схема взаимосвязей прикреплена файлом [ER-diagram_Database.png](https://github.com/AllIWantIsNotAvailable/GeekBrains_MuseumDatabase/blob/main/ER-diagram_Database.png)
